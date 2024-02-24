@@ -2,8 +2,6 @@
 <h1 align="center">Hello world 🌍👋</h1>
 <h3 align="center">🔎 Precision, expertise and a touch of fitness - that's my approach to devlopment.
 </h3>
-<h3 align="center"> 🔭 I’m currently working on .Net Mvc Framework.
-</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
