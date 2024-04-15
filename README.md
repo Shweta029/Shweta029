@@ -2,7 +2,7 @@
 <h1 align="center">Hello world 🌍👋</h1>
 <h3 align="center">🔎 Precision, expertise and a touch of fitness - that's my approach to devlopment.
 </h3>
-<img src="https://drive.google.com/file/d/1hv8lYjcLX90t5rmkMKUDCq5j5d5d8Jg8/view?usp=sharing" alt="android" width="40" height="40"/>
+<img src="[https://drive.google.com/file/d/1hv8lYjcLX90t5rmkMKUDCq5j5d5d8Jg8/view?usp=sharing](https://dribbble.com/shots/15215756-Coding-Animation-Concept?utm_source=Clipboard_Shot&utm_campaign=evaristphi&utm_content=Coding%20Animation%20Concept&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=evaristphi&utm_content=Coding%20Animation%20Concept&utm_medium=Social_Share)" alt="coding" width="400px" height="40"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
